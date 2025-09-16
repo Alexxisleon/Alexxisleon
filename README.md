@@ -34,7 +34,7 @@
 
 ---
 
-## 🌟 Projetos DESTAQUES
+## 💻 Projetos DESTAQUES
 
 - [🔗 Sistema de Gerenciamento de Rotas](https://github.com/eliphaslevii/TrabalhoPI)
 **Tecnologias:**
@@ -45,7 +45,7 @@
 
 ---
 
-## 🏆 Experiência
+## 💼 Experiência
 
 **Freelancer / Autônomo**
 - Desenvolvimento em JavaScript e TypeScript  
