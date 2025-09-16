@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&background=00000000&width=500&lines=~$+echo+"Olá!+Eu+sou+o+Cristian")
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Eater&size=28&pause=1000&color=00FF00&background=00000000&width=500&lines=~$+echo+"Olá!+Eu+sou+o+Cristian")
 
 **Programador Full Stak | TI**
 
