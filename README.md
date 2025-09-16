@@ -1,11 +1,12 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=30&pause=1000&color=3398DB&center=true&vCenter=true&width=500&lines=👋+Olá!+Eu+sou+o+Cristian)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&background=00000000&width=500&lines=~$+cat+./boas-vindas.txt;Olá!+Eu+sou+o+Cristian;Desenvolvedor+Full-Stack;~$+█)
 
-**Programador full stak | TI**
+**Programador Full Stak | TI**
 
 📍 Curitiba - Paraná
 📧 alelion001@gmail.com
 📱 (41) 99679-6281
 🔗 [LinkedIn](https://www.linkedin.com/in/ale-lenon-b63659384/)
+
 
 ---
 
