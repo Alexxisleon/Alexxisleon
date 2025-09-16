@@ -4,6 +4,8 @@
 📧 alelion001@gmail.com
 📱 (41) 99679-6281
 
+🔗 [LinkedIn](https://www.linkedin.com/in/ale-lenon-b63659384/)
+
 ---
 
 ## 💻 Tecnologias & Ferramentas
