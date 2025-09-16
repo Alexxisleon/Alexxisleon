@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&background=00000000&width=500&lines=~$+cat+./boas-vindas.txt;Olá!+Eu+sou+o+Cristian;Desenvolvedor+Full-Stack;~$+█)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&background=00000000&width=500&lines=~$+echo+"Olá!+Eu+sou+o+Cristian")
 
 **Programador Full Stak | TI**
 
