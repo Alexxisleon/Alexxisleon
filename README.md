@@ -28,8 +28,8 @@
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
 ### Ferramentas  
-![Git](https://skillicons.dev/icons?i=Git)
-![Windows](https://skillicons.dev/icons?i=Windows)
+![Git](https://skillicons.dev/icons?i=git)
+![Windows](https://skillicons.dev/icons?i=windows)
 
 ---
 
