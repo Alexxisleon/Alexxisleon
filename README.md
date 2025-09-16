@@ -31,7 +31,7 @@
 
 ## 🌟 Projetos DESTAQUES
 
-### 🚚 Sistema de Gerenciamento de Rotas
+- [🔗 Sistema de Gerenciamento de Rotas](https://github.com/eliphaslevii/TrabalhoPI)
 **Tecnologias:** Python + SQL + PyQt5 + Google Maps API
 - Automação de logística de entregas
 - Cadastro de entregadores
