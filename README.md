@@ -44,7 +44,7 @@
 
 ### Minhas Estatísticas do GitHub
 
-[![Estatísticas de Alexxisshon no GitHub](https://github-readme-stats.vercel.app/api?username=alexxisshon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/alexxisshon)
+[![Estatísticas de Alexxisleonshon no GitHub](https://github-readme-stats.vercel.app/api?username=Alexxisleonshon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/Alexxisleonshon)
 
 ## 💻 Projetos DESTAQUES
 
