@@ -21,7 +21,7 @@
 
 <h4>Frameworks & Bibliotecas</h4>
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" alt="Frameworks e Bibliotecas" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" alt="Frameworks e Bibliotecas" />
 </div>
 
 <table width="100%">
