@@ -39,6 +39,12 @@
 ![Windows](https://skillicons.dev/icons?i=windows)
 ![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
 
+### IDIOMA
+
+- ingles: A1
+- espanhol: B2
+- portugues: nativo
+
 ---
 
 ### Minhas Estatísticas do GitHub
