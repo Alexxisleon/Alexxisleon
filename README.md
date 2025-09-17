@@ -19,22 +19,18 @@
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
-      <h3>🚀 About Me</h3>
-      <p>
-        <img src="https://raw.githubusercontent.com/Alexxisleon/Alexxisleon/main/assets/rocket.svg" width="20" alt="rocket icon"> <b>Backend-Focused Skills</b>
-      </p>
+      <h3><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> About Me</h3>
       <ul>
-        <li><img src="https://raw.githubusercontent.com/Alexxisleon/Alexxisleon/main/assets/bullet-point.svg" width="15" alt="bullet point"> Back-end developer specialized in building robust APIs, efficient databases, and scalable systems.</li>
-        <li><img src="https://raw.githubusercontent.com/Alexxisleon/Alexxisleon/main/assets/bullet-point.svg" width="15" alt="bullet point"> Strong experience with Node.js (Fastify), Laravel, and Spring Boot.</li>
-        <li><img src="https://raw.githubusercontent.com/Alexxisleon/Alexxisleon/main/assets/bullet-point.svg" width="15" alt="bullet point"> Design and optimization of SQL and NoSQL databases.</li>
-        <li><img src="https://raw.githubusercontent.com/Alexxisleon/Alexxisleon/main/assets/bullet-point.svg" width="15" alt="bullet point"> Experience with AWS services and containerization with Docker.</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="20" height="20" /> <b>Backend-Focused Skills</b></li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" alt="Rocket" width="20" height="20" /> Back-end developer specialized in building robust APIs, efficient databases, and scalable systems.</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="20" height="20" /> Strong experience with Node.js (Fastify), Laravel, and Spring Boot.</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Database.png" alt="Database" width="20" height="20" /> Design and optimization of SQL and NoSQL databases.</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Sky/Cloud.png" alt="Cloud" width="20" height="20" /> Experience with AWS services and containerization with Docker.</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Shooting%20Star.png" alt="Shooting Star" width="20" height="20" /> <b>Professional Strengths</b></li>
       </ul>
-      <p>
-        <img src="https://raw.githubusercontent.com/Alexxisleon/Alexxisleon/main/assets/star.svg" width="20" alt="star icon"> <b>Professional Strengths</b>
-      </p>
-      </td>
+    </td>
     <td width="30%" valign="top">
-      <img src="https://raw.githubusercontent.com/Alexxisleon/Alexxisleon/main/assets/octocat-mountains.svg" alt="Ilustração lateral" width="100%">
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif/octocat.gif" alt="GitHub Octocat" width="100%">
     </td>
   </tr>
 </table>
