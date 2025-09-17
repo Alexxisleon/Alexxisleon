@@ -47,6 +47,8 @@
 [![Estatísticas de Alexxisleon no GitHub](https://github-readme-stats.vercel.app/api?username=Alexxisleon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/Alexxisleon)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxisleon&langs_count=7&theme=tokyonight)](https://github.com/Alexxisleon)
 
+---
+
 ### 📫 Fale Comigo
 
 <div align="center">
@@ -62,6 +64,8 @@
 </div>
 
 <br>
+
+---
 
 ## 💻 Projetos DESTAQUES
 
