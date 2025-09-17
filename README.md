@@ -28,7 +28,7 @@
   </div> 
       <h4>Ferramentas</h4> 
       <div> 
-    <img src="https://skillicons.dev/icons?i=git,github,windows,vscode" alt="Ferramentas" /> 
+    <img src="https://skillicons.dev/icons?i=git,github,windows,vscode,pycharm" alt="Ferramentas" /> 
   </div> 
 
 ---
