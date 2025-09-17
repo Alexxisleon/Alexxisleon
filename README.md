@@ -1,5 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans+Condensed&weight=700&size=30&pause=1000&color=D3D3D3&background=00000000&width=500&lines=~$+echo+"Olá!+Eu+sou+o+Cristian"&shadow=true)
 
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&pause=1000&color=CCCCCC&width=650&lines=**Programador Full Stak | TI**" alt="Animação de Terminal Windows" />
+</div>
 **Programador Full Stak | TI**
 
 📍 Curitiba - Paraná
