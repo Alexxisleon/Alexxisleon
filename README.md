@@ -70,6 +70,9 @@
   <a href="https://github.com/Alexxisleon" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
+  <a href="https://discordapp.com/users/rw917" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
+  </a>
 </div>
 
 <br>
