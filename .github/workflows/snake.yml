@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Generate snake animation
-        uses: Platane/snk@v3 # Versão atualizada e mais estável
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
