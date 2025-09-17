@@ -15,6 +15,30 @@
 ## 💻 Tecnologias & Ferramentas
 
 ### Linguagens  
+
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <h3>🚀 About Me</h3>
+      <p>
+        <img src="https://raw.githubusercontent.com/Alexxisleon/Alexxisleon/main/assets/rocket.svg" width="20" alt="rocket icon"> <b>Backend-Focused Skills</b>
+      </p>
+      <ul>
+        <li><img src="https://raw.githubusercontent.com/Alexxisleon/Alexxisleon/main/assets/bullet-point.svg" width="15" alt="bullet point"> Back-end developer specialized in building robust APIs, efficient databases, and scalable systems.</li>
+        <li><img src="https://raw.githubusercontent.com/Alexxisleon/Alexxisleon/main/assets/bullet-point.svg" width="15" alt="bullet point"> Strong experience with Node.js (Fastify), Laravel, and Spring Boot.</li>
+        <li><img src="https://raw.githubusercontent.com/Alexxisleon/Alexxisleon/main/assets/bullet-point.svg" width="15" alt="bullet point"> Design and optimization of SQL and NoSQL databases.</li>
+        <li><img src="https://raw.githubusercontent.com/Alexxisleon/Alexxisleon/main/assets/bullet-point.svg" width="15" alt="bullet point"> Experience with AWS services and containerization with Docker.</li>
+      </ul>
+      <p>
+        <img src="https://raw.githubusercontent.com/Alexxisleon/Alexxisleon/main/assets/star.svg" width="20" alt="star icon"> <b>Professional Strengths</b>
+      </p>
+      </td>
+    <td width="30%" valign="top">
+      <img src="https://raw.githubusercontent.com/Alexxisleon/Alexxisleon/main/assets/octocat-mountains.svg" alt="Ilustração lateral" width="100%">
+    </td>
+  </tr>
+</table>
+
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Python](https://skillicons.dev/icons?i=python)
