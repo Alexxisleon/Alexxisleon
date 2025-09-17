@@ -33,6 +33,10 @@
 
 ---
 
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alexxisleon/Alexxisleon/output/github-contribution-grid-snake.svg">
+
+---
+
 ### Minhas Estatísticas do GitHub
 
 [![Estatísticas de Alexxisleon no GitHub](https://github-readme-stats.vercel.app/api?username=Alexxisleon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/Alexxisleon)
