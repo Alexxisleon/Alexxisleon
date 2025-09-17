@@ -115,8 +115,8 @@
     <img src="https://komarev.com/ghpvc/?username=Alexxisleon&style=for-the-badge&color=brightgreen" alt="Contador de Visitas"/>
   </p>
 
-  <p>
-    <small align= "center">Última atualização em: </small>
+  <p align="center">
+    <small>Última atualização em: </small>
   </p>
 
 
