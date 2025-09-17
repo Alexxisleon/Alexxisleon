@@ -16,11 +16,13 @@
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
-![PHP](https://skillicons.dev/icons?i=php)
+![PHP](https://skillicons.dev/icons?i=php)                                
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
+![CSS3](https://skillicons.dev/icons?i=css)                           <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=23&duration=4000&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=C%3A%5CUsers%5CAlexxisleon>+git+push;Enviando+objetos+para+o+GitHub...;Tudo+certo!+%E2%9C%A8" alt="Animação de Digitação no Terminal" />
+</div>
 
 ### Frameworks & Bibliotecas  
 
