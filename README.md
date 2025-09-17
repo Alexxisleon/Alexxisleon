@@ -13,6 +13,7 @@
 ## 💻 Tecnologias & Ferramentas
 
 ### Linguagens  
+![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
@@ -23,15 +24,21 @@
 ![CSS3](https://skillicons.dev/icons?i=css)
 
 ### Frameworks & Bibliotecas  
+![Vue.js](https://skillicons.dev/icons?i=vue)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![React](https://skillicons.dev/icons?i=react)
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
 
 ### Banco de Dados  
+![Prisma](https://skillicons.dev/icons?i=prisma)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
 ### Ferramentas  
+![GitHub](https://skillicons.dev/icons?i=github)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Windows](https://skillicons.dev/icons?i=windows)
+![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
 
 ---
 
