@@ -26,6 +26,8 @@
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)      
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=14&pause=1000&color=33FF33&width=400&lines=C:%5CUsers%5CAlexxisleon>+dir;projetos;curriculo.pdf;notas.txt;;C:%5CUsers%5CAlexxisleon>_" alt="Mini Animação de Terminal" />
+
 ### Frameworks & Bibliotecas  
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
