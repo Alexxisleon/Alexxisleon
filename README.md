@@ -42,6 +42,10 @@
 
 ---
 
+### Minhas Estatísticas do GitHub
+
+[![Estatísticas de Alexxisshon no GitHub](https://github-readme-stats.vercel.app/api?username=alexxisshon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/alexxisshon)
+
 ## 💻 Projetos DESTAQUES
 
 - [🔗 Sistema de Gerenciamento de Rotas](https://github.com/eliphaslevii/TrabalhoPI)
