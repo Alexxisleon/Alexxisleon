@@ -47,6 +47,24 @@
 [![Estatísticas de Alexxisleon no GitHub](https://github-readme-stats.vercel.app/api?username=Alexxisleon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/Alexxisleon)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxisleon&langs_count=7&theme=tokyonight)](https://github.com/Alexxisleon)
 
+### 📫 Fale Comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/cristian-leon-b63659384/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:alelion001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Alexxisleon" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/rainbow-separator.png" width="100%"/>
+
 ## 💻 Projetos DESTAQUES
 
 - [🔗 Sistema de Gerenciamento de Rotas](https://github.com/eliphaslevii/TrabalhoPI)
