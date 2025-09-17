@@ -26,6 +26,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&pause=1000&color=CCCCCC&width=650&lines=Microsoft+Windows+[versão+10.0.26100.6584];(c)+Microsoft+Corporation.+Todos+os+direitos+reservados.;;C:%5CUsers%5CUsuário>" alt="Animação de Terminal Windows" />
 </div>
 
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&pause=1000&color=CCCCCC&width=650&lines=Microsoft+Windows+[versão+10.0.26100.6584];(c)+Microsoft+Corporation.+Todos+os+direitos+reservados.;;C:%5CUsers%5CUsuário>+echo+Olá+Mundo!;Olá+Mundo!" alt="Animação de Terminal Windows" />
+</div>
+
 ### Frameworks & Bibliotecas  
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
