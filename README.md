@@ -43,12 +43,6 @@
 ![Windows](https://skillicons.dev/icons?i=windows)
 ![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
 
-### IDIOMA
-
-- ingles: A1
-- espanhol: C1
-- portugues: nativo
-
 ---
 
 ### Minhas Estatísticas do GitHub
@@ -101,10 +95,15 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=28&pause=1000&color=FFFFFF&width=450&lines=📚+Educação" alt="Educação" />
+### IDIOMA
 
-**Análise e Desenvolvimento de Sistemas – Universidade Tuiuti do Paraná**
-📅 Conclusão: 2026
+- ingles: A1
+- espanhol: C1
+- portugues: nativo
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=28&pause=1000&color=FFFFFF&width=450&lines=📚+Educação" alt="Educação" />
 
 **Análise e Desenvolvimento de Sistemas – Universidade Tuiuti do Paraná**
 📅 Conclusão: 2026
