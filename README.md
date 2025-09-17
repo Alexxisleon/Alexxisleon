@@ -33,7 +33,7 @@
       <table width="100%">
 </td> 
   <td width="100%" cellspacing="10" align="right">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=14&pause=1000&color=FFFFFF&background=000000&width=300&height=150&lines=C:%5CUsers%5CAlexxisleon>+ls;projeto1;projeto2;README.md;C:%5CUsers%5CAlexxisleon>_" alt="Mini Terminal Animado" /> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=14&pause=1000&color=FFFFFF&background=000000&width=100%height=150&lines=C:%5CUsers%5CAlexxisleon>+ls;projeto1;projeto2;README.md;C:%5CUsers%5CAlexxisleon>_" alt="Mini Terminal Animado" /> 
   </td> 
 </tr> 
 </table>
