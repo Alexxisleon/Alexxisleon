@@ -108,3 +108,38 @@
 
 **Análise e Desenvolvimento de Sistemas – Universidade Tuiuti do Paraná**
 📅 Conclusão: 2026
+
+---
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=33FF33&center=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Alexxisleon;Sou+um+desenvolvedor...;Buscando+sempre+aprender+mais!" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-terminal.vercel.app/api?customTitle=Bem-vindo(a)!&user=alexxisleon&prompt=%24&theme=dracula&showBolt=true&command=cat%20sobre_mim.txt&output=Sou%20um%20desenvolvedor%20apaixonado%20por%20tecnologia%20e%20c%C3%B3digo%20limpo.&command=ls%20skills&output=JavaScript%20%7C%20React%20%7C%20Node.js%20%7C%20Python" alt="Terminal Simulator"/>
+</p>
+
+---
+
+<pre align="center">
+  ██████╗  ██╗  ██╗  █████╗  ██╗  ██╗
+  ██╔══██╗ ██║  ██║ ██╔══██╗ ██║  ██║
+  ██████╔╝ ███████║ ███████║ ███████║
+  ██╔═══╝  ██╔══██║ ██╔══██║ ██╔══██║
+  ██║      ██║  ██║ ██║  ██║ ██║  ██║
+  ╚═╝      ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝
+</pre>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=1DB954&center=true&width=500&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Alexxisleon;Sou+um+desenvolvedor+Full-Stack;Bem-vindo(a)+ao+meu+perfil+do+GitHub!" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-terminal.vercel.app/api?customTitle=Meu-Terminal&user=alexxisleon&prompt=%24&theme=dracula&showBolt=true&command=cat%20sobre_mim.txt&output=Sou%20um%20desenvolvedor%20apaixonado%20por%20tecnologia%20e%20c%C3%B3digo%20limpo.&command=ls%20skills&output=JavaScript%20%7C%20React%20%7C%20Node.js%20%7C%20Python&command=contato&output=Voc%C3%AA%20pode%20me%20encontrar%20no%20LinkedIn%20ou%20Instagram." alt="Terminal Simulator"/>
+</p>
