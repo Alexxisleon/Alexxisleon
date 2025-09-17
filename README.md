@@ -63,8 +63,6 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/rainbow-separator.png" width="100%"/>
-
 ## 💻 Projetos DESTAQUES
 
 - [🔗 Sistema de Gerenciamento de Rotas](https://github.com/eliphaslevii/TrabalhoPI)
