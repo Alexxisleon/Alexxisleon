@@ -20,8 +20,10 @@
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)                           <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=23&duration=4000&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=C%3A%5CUsers%5CAlexxisleon>+git+push;Enviando+objetos+para+o+GitHub...;Tudo+certo!+%E2%9C%A8" alt="Animação de Digitação no Terminal" />
+![CSS3](https://skillicons.dev/icons?i=css)      
+
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&pause=1000&color=CCCCCC&width=650&lines=Microsoft+Windows+[versão+10.0.26100.6584];(c)+Microsoft+Corporation.+Todos+os+direitos+reservados.;;C:%5CUsers%5CUsuário>" alt="Animação de Terminal Windows" />
 </div>
 
 ### Frameworks & Bibliotecas  
