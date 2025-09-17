@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&pause=1000&color=CCCCCC&width=650&lines=Microsoft+Windows+[versão+10.0.26100.6584];(c)+Microsoft+Corporation.+Todos+os+direitos+reservados.;;C:%5CUsers%5CUsuário>+echo+Olá+Mundo!;Olá+Mundo!;;C:%5CUsers%5CUsuário>+echo+%22Olá!+Eu+sou+o+Cristian%22;Olá!+Eu+sou+o+Cristian" alt="Animação de Terminal Windows" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&pause=1000&color=CCCCCC&width=650&lines=C:%5CUsers%5CUsuário>Olá!+Eu+sou+o+Cristian;" alt="Animação" />
 </div>
 
 <div align="left">
