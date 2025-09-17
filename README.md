@@ -111,9 +111,14 @@
 
 ---
 
-*Última atualização em: *
+ <p>
+    <img src="https://komarev.com/ghpvc/?username=Alexxisleon&style=for-the-badge&color=brightgreen" alt="Contador de Visitas"/>
+  </p>
 
-![Contador de Visitas](https://komarev.com/ghpvc/?username=Alexxisleon&style=flat-square&color=brightgreen)
+  <p>
+    <small>Última atualização em: </small>
+  </p>
+</div>
 
 
 
