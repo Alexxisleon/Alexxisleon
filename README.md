@@ -76,6 +76,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=28&pause=1000&color=FFFFFF&width=450&lines=💻+Projetos+DESTAQUES" alt="Projetos DESTAQUES" />
 
 - [🔗 Sistema de Gerenciamento de Rotas](https://github.com/eliphaslevii/TrabalhoPI)
+  
 **Tecnologias:**
 - Python + SQL + PyQt5 + Google Maps API
 - Automação de logística de entregas
