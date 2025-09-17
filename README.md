@@ -77,8 +77,7 @@
 
 - [🔗 Sistema de Gerenciamento de Rotas](https://github.com/eliphaslevii/TrabalhoPI)
   
-**Tecnologias:**
-- Python + SQL + PyQt5 + Google Maps API
+**Tecnologias:** `Python`, `SQL`, `PyQt5`, `Google Maps API`
 - Automação de logística de entregas
 - Cadastro de entregadores
 - Cálculo de rotas otimizadas
@@ -87,20 +86,19 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=28&pause=1000&color=FFFFFF&width=450&lines=💼+Experiência" alt="Experiência" />
 
-**Freelancer / Autônomo**
-- Desenvolvimento em JavaScript e TypeScript  
-- Integração de APIs
-- Integração com Prisma
-- Criação de interfaces com React e TailwindCSS 
-- Banco de Dados com PostgreSQL    
+**Desenvolvedor Freelancer**
+- Desenvolvimento de aplicações web com `JavaScript` e `TypeScript`.
+- Criação e integração de APIs REST.
+- Modelagem de banco de dados com `Prisma` e `PostgreSQL`.
+- Construção de interfaces reativas com `React` e `TailwindCSS`. 
 
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=28&pause=1000&color=FFFFFF&width=450&lines=🌐+idioma" alt="idioma" />
 
-- Inglês: A1
-- Espanhol: C1
-- Portugues: nativo
+- **Inglês:** A1 (Básico)
+- **Espanhol:** C1 (Avançado)
+- **Português:** Nativo
 
 ---
 
@@ -111,13 +109,12 @@
 
 ---
 
- <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Alexxisleon&style=for-the-badge&color=brightgreen" alt="Contador de Visitas"/>
-  </p>
-
-  <p align="center">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alexxisleon&style=for-the-badge&color=brightgreen" alt="Contador de Visitas"/>
+  <p>
     <small>Última atualização em: </small>
   </p>
+</div>
 
 
 
