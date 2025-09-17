@@ -38,7 +38,7 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![Windows](https://skillicons.dev/icons?i=windows)
 ![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+<img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgNDggNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iNCIgZmlsbD0iIzI4MjgyOCIvPjxwYXRoIGZpbGw9IiMxODVDMzciIGQ9Ik0zMi4yNSA1SDI2bC05LjI1IDEyTDMyLjI1IDV6Ii8+PHBhdGggZmlsbD0iIzIxNzM0NiIgZD0iTTMyLjI1IDQzSDI2bC05LjI1LTEyTDMyLjI1IDQzeiIvPjxwYXRoIGZpbGw9IiMxMGE0MmIiIGQ9Ik0xNS43NSA1SDI0djM4aC04LjI1QzE1LjA0IDQzIDE0IDQyLjIgMTQgND
 
 ### IDIOMA
 
