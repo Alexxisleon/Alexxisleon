@@ -38,7 +38,7 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![Windows](https://skillicons.dev/icons?i=windows)
 ![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
-![Excel](https://skillicons.dev/icons?i=excel)
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 
 ### IDIOMA
 
