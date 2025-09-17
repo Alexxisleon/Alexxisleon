@@ -24,7 +24,7 @@
 ![CSS3](https://skillicons.dev/icons?i=css)
 
 ### Frameworks & Bibliotecas  
-![Vue.js](https://skillicons.dev/icons?i=vue)
+
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![React](https://skillicons.dev/icons?i=react)
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
