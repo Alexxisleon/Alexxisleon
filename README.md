@@ -79,7 +79,8 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=28&pause=1000&color=FFFFFF&width=450&lines=💻+Projetos+DESTAQUES" alt="Projetos DESTAQUES" />
+## 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" /> Projetos DESTAQUES
 
 - [🔗 Sistema de Gerenciamento de Rotas](https://github.com/eliphaslevii/TrabalhoPI)
 **Tecnologias:**
@@ -90,7 +91,8 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=28&pause=1000&color=FFFFFF&width=450&lines=💼+Experiência" alt="Experiência" />
+## 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" height="35" /> Experiência
 
 **Freelancer / Autônomo**
 - Desenvolvimento em JavaScript e TypeScript  
@@ -101,7 +103,8 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=28&pause=1000&color=FFFFFF&width=450&lines=📚+Educação" alt="Educação" />
+## 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="35" height="35" /> Educação
 
 **Análise e Desenvolvimento de Sistemas – Universidade Tuiuti do Paraná**
 📅 Conclusão: 2026
