@@ -111,20 +111,10 @@
 
 ---
 
-<pre align="center">
-  ██████╗  ██╗  ██╗  █████╗  ██╗  ██╗
-  ██╔══██╗ ██║  ██║ ██╔══██╗ ██║  ██║
-  ██████╔╝ ███████║ ███████║ ███████║
-  ██╔═══╝  ██╔══██║ ██╔══██║ ██╔══██║
-  ██║      ██║  ██║ ██║  ██║ ██║  ██║
-  ╚═╝      ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝
-</pre>
+*Última atualização em: *
 
-<p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=FFFFFF&width=500&lines=%24+cat+sobre_mim.txt;%3E+Sou+um+desenvolvedor+apaixonado+por+tecnologia...;%3E+Sempre+buscando+novos+desafios.;%3E+Bem-vindo(a)+ao+meu+perfil!+" alt="Typing SVG" />
-  </a>
-</p>
+![Contador de Visitas](https://komarev.com/ghpvc/?username=Alexxisleon&style=flat-square&color=brightgreen)
+
 
 
 
