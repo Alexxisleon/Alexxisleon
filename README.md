@@ -43,7 +43,7 @@
 ### IDIOMA
 
 - ingles: A1
-- espanhol: B2
+- espanhol: C1
 - portugues: nativo
 
 ---
