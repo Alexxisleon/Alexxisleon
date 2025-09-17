@@ -38,6 +38,7 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![Windows](https://skillicons.dev/icons?i=windows)
 ![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
+![Excel](https://skillicons.dev/icons?i=excel)
 
 ### IDIOMA
 
