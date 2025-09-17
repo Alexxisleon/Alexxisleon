@@ -64,7 +64,7 @@
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
   </a>
   </a>
-  <a href="https://instagram.com/users/akz7ine" target="_blank">
+  <a href="https://instagram.com/akz7ine" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram"/>
   </a>
 </div>
