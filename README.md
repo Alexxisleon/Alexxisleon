@@ -29,9 +29,6 @@
       <h4>Ferramentas</h4> 
       <div> 
     <img src="https://skillicons.dev/icons?i=git,github,windows,vscode,pycharm" alt="Ferramentas" /> 
-        <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Microsoft Excel" height="40"/>
-
-<img src="https://cdn.simpleicons.org/microsoftexcel/white" alt="Microsoft Excel" height="40"/>
   </div> 
 
 ---
