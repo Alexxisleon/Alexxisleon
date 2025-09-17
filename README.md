@@ -12,25 +12,7 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <!-- Coluna da esquerda -->
-    <td width="55%" valign="top">
-      <h4>Banco de Dados</h4>
-      <div>
-        <img src="https://skillicons.dev/icons?i=prisma,postgresql" alt="Banco de Dados" />
-      </div>
-      <h4>Ferramentas</h4>
-      <div>
-        <img src="https://skillicons.dev/icons?i=git,github,windows,vscode" alt="Ferramentas" />
-      </div>
-    </td>
-    <!-- Coluna da direita -->
-    <td width="45%" valign="top" align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=14&pause=1000&color=FFFFFF&background=000000&width=300&height=150&lines=C:%5CUsers%5CAlexxisleon>+ls;projeto1;projeto2;README.md;C:%5CUsers%5CAlexxisleon>_" alt="Mini Terminal Animado" />
-    </td>
-  </tr>
-</table>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" /> Tecnologias & Ferramentas</h3> <h4>Linguagens</h4> <div> <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,js,ts,html,css" alt="Linguagens de Programação" /> </div> <h4>Frameworks & Bibliotecas</h4> <div> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" alt="Frameworks e Bibliotecas" /> </div> <table width="100%"> <tr> <td width="60%" valign="top"> <h4>Banco de Dados</h4> <div> <img src="https://skillicons.dev/icons?i=prisma,postgresql" alt="Banco de Dados" /> </div> <h4>Ferramentas</h4> <div> <img src="https://skillicons.dev/icons?i=git,github,windows,vscode" alt="Ferramentas" /> </div> </td> <td width="45%" valign="top"> <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=14&pause=1000&color=FFFFFF&background=000000&width=300&height=150&lines=C:%5CUsers%5CAlexxisleon>+ls;projeto1;projeto2;README.md;C:%5CUsers%5CAlexxisleon>_" alt="Mini Terminal Animado" /> </td> </tr> </table>
 
 
 ---
