@@ -79,7 +79,7 @@
 
 ---
 
-## 💻 Projetos DESTAQUES
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=28&pause=1000&color=FFFFFF&width=450&lines=💻+Projetos+DESTAQUES" alt="Projetos DESTAQUES" />
 
 - [🔗 Sistema de Gerenciamento de Rotas](https://github.com/eliphaslevii/TrabalhoPI)
 **Tecnologias:**
@@ -90,18 +90,18 @@
 
 ---
 
-## 💼 Experiência
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=28&pause=1000&color=FFFFFF&width=450&lines=💼+Experiência" alt="Experiência" />
 
 **Freelancer / Autônomo**
-- Desenvolvimento em JavaScript e TypeScript  
+- Desenvolvimento em JavaScript e TypeScript  
 - Integração de APIs
 - Integração com Prisma
-- Criação de interfaces com React e TailwindCSS 
-- Banco de Dados com PostgreSQL    
+- Criação de interfaces com React e TailwindCSS 
+- Banco de Dados com PostgreSQL    
 
 ---
 
-## 📚 Educação
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=28&pause=1000&color=FFFFFF&width=450&lines=📚+Educação" alt="Educação" />
 
 **Análise e Desenvolvimento de Sistemas – Universidade Tuiuti do Paraná**
 📅 Conclusão: 2026
