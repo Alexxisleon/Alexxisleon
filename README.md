@@ -84,7 +84,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=28&pause=1000&color=FFFFFF&width=450&lines=💼+idioma" alt="Experiência" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=28&pause=1000&color=FFFFFF&width=450&lines=💼+Experiência" alt="Experiência" />
 
 **Freelancer / Autônomo**
 - Desenvolvimento em JavaScript e TypeScript  
