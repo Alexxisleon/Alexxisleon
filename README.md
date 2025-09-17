@@ -35,6 +35,7 @@
 
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alexxisleon/Alexxisleon/output/github-contribution-grid-snake.svg">
 
+
 ---
 
 ### Minhas Estatísticas do GitHub
