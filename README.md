@@ -98,9 +98,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=28&pause=1000&color=FFFFFF&width=450&lines=🌐+idioma" alt="idioma" />
 
-- ingles: A1
-- espanhol: C1
-- portugues: nativo
+- Inglês: A1
+- Espanhol: C1
+- Portugues: nativo
 
 ---
 
