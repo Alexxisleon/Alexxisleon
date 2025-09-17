@@ -30,14 +30,15 @@
       <div> 
     <img src="https://skillicons.dev/icons?i=git,github,windows,vscode" alt="Ferramentas" /> 
   </div> 
-  <table width="100%">
+  <table width="100%" cellspacing="10" style="background-color:black;">
   <tr>
-    <td width="100%" cellspacing="10" align="right">
+    <td align="right">
       <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=14&pause=1000&color=FFFFFF&background=000000&width=300&height=150&lines=C:%5CUsers%5CAlexxisleon>+ls;projeto1;projeto2;README.md;C:%5CUsers%5CAlexxisleon>_" 
            alt="Mini Terminal Animado" /> 
     </td>
   </tr>
 </table>
+
 
 
 
