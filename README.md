@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,js,ts,html,css" alt="Linguagens de Programação" /> 
 </div> <h4>Frameworks & Bibliotecas</h4> 
 <div> 
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" alt="Frameworks e Bibliotecas" /> 
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vite" alt="Frameworks e Bibliotecas" /> 
 </div> 
   <tr> 
     <td width="60%" valign="top"> 
