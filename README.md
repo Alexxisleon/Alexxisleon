@@ -12,38 +12,36 @@
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" /> Tecnologias & Ferramentas</h3>
 
-### Linguagens  
+<h4>Linguagens</h4>
+<div>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,js,ts,html,css" alt="Linguagens de Programação" />
+</div>
 
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![PHP](https://skillicons.dev/icons?i=php)                                
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)      
+<h4>Frameworks & Bibliotecas</h4>
+<div>
+  <img src="https://skillicons.dev/icons?i=js,react,vue,nextjs,nodejs" alt="Frameworks e Bibliotecas" />
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=14&pause=1000&color=33FF33&width=400&lines=C:%5CUsers%5CAlexxisleon>+dir;projetos;curriculo.pdf;notas.txt;;C:%5CUsers%5CAlexxisleon>_" alt="Mini Animação de Terminal" />
-
-### Frameworks & Bibliotecas  
-
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![React](https://skillicons.dev/icons?i=react)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-
-### Banco de Dados  
-![Prisma](https://skillicons.dev/icons?i=prisma)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-
-### Ferramentas  
-![GitHub](https://skillicons.dev/icons?i=github)
-![Git](https://skillicons.dev/icons?i=git)
-![Windows](https://skillicons.dev/icons?i=windows)
-![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h4>Banco de Dados</h4>
+      <div>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Banco de Dados" />
+      </div>
+      <h4>Ferramentas</h4>
+      <div>
+        <img src="https://skillicons.dev/icons?i=git,github,windows,vscode" alt="Ferramentas" />
+        <img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgNDggNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiByeD0iNCIgZmlsbD0iIzI4MjgyOCIvPjxwYXRoIGZpbGw9IiMxODVDMzciIGQ9Ik0zMi4yNSA1SDI2bC05LjI1IDEyTDMyLjI1IDV6Ii8+PHBhdGggZmlsbD0iIzIxNzM0NiIgZD0iTTMyLjI1IDQzSDI2bC05LjI1LTEyTDMyLjI1IDQzeiIvPjxwYXRoIGZpbGw9IiMxMGE0MmIiIGQ9Ik0xNS43NSA1SDI0djM4aC04LjI1QzE1LjA0IDQzIDE0IDQyLjIgMTQgNDEuM1Y2LjdDMTQgNS44IDE1LjA0IDUgMTUuNzUgNXoiLz48cGF0aCBmaWxsPSIjMzA4NzUyIiBkPSJNMzIgNmgxLjI1YzEuMjEgMCAyLjA1Ljg2IDIuMDQgMS45NVYxN0gzMlY2eiIvPjxwYXRoIGZpbGw9IiMyQTc5NDciIGQ9Ik0zMiAzMmg1LjI5Yy44MiAwIDEuNzEtLjU2IDEuNzEtMS.25V1OEgzMlYzMnoiLz48cGF0aCBmaWxsPSIjMTg1QzM3IiBkPSJNMzkgMzQuMDVWNDEuMWMwIC45LS44MyAxLjktMS45NSAxLjloLTUuMDVWMzQuMDVINHoiLz48cGF0aCBmaWxsPSIjZmZmIiBmaWxsLW9wYWNpdHk9Ii44IiBkPSJNMjEgMjYuMjVjMCAuOTQuNzUgMS43IDEuNjcgMS43aDIuMDljLjkxIDAgMS42Ni0uNzYgMS42Ni0xLjcgMC0uOTQtNzUtMS43LTEuNjYtMS43aC0yLjA5Yy0uOTIgMC0xLjY3Ljc2LTEuNjcgMS43em0xMS4yNS0zLjQ0bC0zLjcgMy4yNyAzLjcgMy4yN2MuNDQtLjUuNTctMS41LjE3LTIuMDgtLjQtLjU4LS40LTEuNTItLjE3LTIuMDhsLjU3LS41N2MuNDQtLjUuNTYtMS41LjE3LTIuMDh6Ii8+PC9zdmc+" width="48" alt="Excel"/>
+      </div>
+    </td>
+    <td width="40%" valign="top">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=14&pause=1000&color=CCCCCC&width=250&height=50&lines=C:%5CUsers%5CAlexxisleon>+ls;projeto1;projeto2;README.md;C:%5CUsers%5CAlexxisleon>_" alt="Mini Terminal Animado" />
+    </td>
+  </tr>
+</table>
 
 ---
 
