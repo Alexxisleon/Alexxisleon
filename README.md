@@ -36,7 +36,7 @@
         <img src="https://skillicons.dev/icons?i=git,github,windows,vscode" alt="Ferramentas" />
       </div>
     </td>
-    <td align="right" width="40%" valign="top">
+    <td align="right" width="60%" valign="top">
       <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=14&pause=1000&color=CCCCCC&width=250&height=50&lines=C:%5CUsers%5CAlexxisleon>+ls;projeto1;projeto2;README.md;C:%5CUsers%5CAlexxisleon>_" alt="Mini Terminal Animado" />
     </td>
   </tr>
