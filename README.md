@@ -5,7 +5,6 @@
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&pause=1000&color=CCCCCC&width=1000&lines=Programador+Full+Stak+|+TI;" alt="Animação" />
 </div>
-
 📍 Curitiba - Paraná
 📧 alelion001@gmail.com
 📱 (41) 99679-6281
