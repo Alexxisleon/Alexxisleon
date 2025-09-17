@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans+Condensed&weight=700&size=30&pause=1000&color=D3D3D3&background=00000000&width=500&lines=~$+echo+"Olá!+Eu+sou+o+Cristian"&shadow=true)
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&pause=1000&color=CCCCCC&width=650&lines=Microsoft+Windows+[versão+10.0.26100.6584];(c)+Microsoft+Corporation.+Todos+os+direitos+reservados.;;C:%5CUsers%5CUsuário>+echo+Olá+Mundo!;Olá+Mundo!;;C:%5CUsers%5CUsuário>+echo+%22Olá!+Eu+sou+o+Cristian%22;Olá!+Eu+sou+o+Cristian" alt="Animação de Terminal Windows" />
+</div>
 
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&pause=1000&color=CCCCCC&width=650&lines=Programador+Full+Stak+|+TI;" alt="Animação" />
@@ -44,10 +46,6 @@
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)      
-
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&pause=1000&color=CCCCCC&width=650&lines=Microsoft+Windows+[versão+10.0.26100.6584];(c)+Microsoft+Corporation.+Todos+os+direitos+reservados.;;C:%5CUsers%5CUsuário>" alt="Animação de Terminal Windows" />
-</div>
 
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=16&pause=1000&color=CCCCCC&width=650&lines=Microsoft+Windows+[versão+10.0.26100.6584];(c)+Microsoft+Corporation.+Todos+os+direitos+reservados.;;C:%5CUsers%5CUsuário>+echo+Olá+Mundo!;Olá+Mundo!" alt="Animação de Terminal Windows" />
