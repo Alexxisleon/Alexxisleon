@@ -43,7 +43,7 @@
 
 ![status de commits](https://github-contributor-stats.vercel.app/api?username=Alexxisleon&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
 [![Estatísticas de Alexxisleon no GitHub](https://github-readme-stats.vercel.app/api?username=Alexxisleon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/Alexxisleon)
-[![Linguagens Mais Usadas](!(https://github-readme-streak-stats.herokuapp.com/?user=Alexxisleon&theme=blue-green&hide_border=true))
+[![Linguagens Mais Usadas](https://github-readme-streak-stats.herokuapp.com/?user=Alexxisleon&theme=blue-green&hide_border=true))
 
 
 ---
