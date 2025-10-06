@@ -118,10 +118,13 @@
 <div align="center">
   <strong>Idioma/Language:</strong>
   [🇧🇷 Português](https://github.com/Alexxisleon/Alexxisleon/blob/main/README.md)| 
-  [🇺🇸 English](https://github.com/Alexxisleon/Alexxisleon/blob/main/README_EN.md) | 
+  [🇺🇸 English](https://github.com/Alexxisleon/Alexxisleon/blob/main/README_EN.md)| 
   [🇪🇸 Español](https://github.com/Alexxisleon/Alexxisleon/blob/main/README_ES.md)
 </div>
-
+<div align="center">
+  <strong>🌐</strong>
+  [🇧🇷](README.md) | [🇺🇸](README_EN.md) | [🇪🇸](README_ES.md)
+</div>
 
 
 
