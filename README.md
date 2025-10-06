@@ -117,9 +117,9 @@
 </div>
 
 <div align="center">
-  [![Português](https://img.shields.io/badge/🇧🇷-Português-blue)](https://github.com/Alexxisleon/Alexxisleon/blob/main/README.md)
-  [![English](https://img.shields.io/badge/🇺🇸-English-blue)](https://github.com/Alexxisleon/Alexxisleon/blob/main/README_EN.md)
-  [![Español](https://img.shields.io/badge/🇪🇸-Español-blue)](https://github.com/Alexxisleon/Alexxisleon/blob/main/README_ES.md)
+  [![Português](https://bit.ly/3WqU8T0)|
+  [![English](https://bit.ly/3KJUH7T)|
+  [![Español](http://bit.ly/4nDdjoL)
 </div>
 
 
