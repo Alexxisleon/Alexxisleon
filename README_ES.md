@@ -113,7 +113,7 @@
   </p>
 </div>
 
-  **🌎  Explora en diferentes idiomas** [PT-BR](https://github.com/Alexxisleon/Alexxisleon/blob/main/README.md) | 
-  [EN](https://github.com/Alexxisleon/Alexxisleon/blob/main/README_EN.md) | 
-  [ES](https://github.com/Alexxisleon/Alexxisleon/blob/main/README_ES.md)
+  **🌎  Explora en diferentes idiomas** [portugues](https://github.com/Alexxisleon/Alexxisleon/blob/main/README.md) | 
+  [English](https://github.com/Alexxisleon/Alexxisleon/blob/main/README_EN.md) | 
+  [Espanish](https://github.com/Alexxisleon/Alexxisleon/blob/main/README_ES.md)
 
