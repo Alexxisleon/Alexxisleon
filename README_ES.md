@@ -113,7 +113,7 @@
   </p>
 </div>
 
-  [PT-BR](https://github.com/Alexxisleon/Alexxisleon/blob/main/README.md) | 
+  **Leia na sua língua preferida!** 🌍 [PT-BR](https://github.com/Alexxisleon/Alexxisleon/blob/main/README.md) | 
   [EN](https://github.com/Alexxisleon/Alexxisleon/blob/main/README_EN.md) | 
   [ES](https://github.com/Alexxisleon/Alexxisleon/blob/main/README_ES.md)
 
