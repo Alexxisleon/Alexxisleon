@@ -112,10 +112,8 @@
     <small>Última actualización: </small>
   </p>
 </div>
-  
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/🇧🇷-Português-blue?style=flat-square" onclick="window.open('https://github.com/Alexxisleon/Alexxisleon/blob/main/README.md')">
-  <img src="https://img.shields.io/badge/🇺🇸-English-blue?style=flat-square" onclick="window.open('https://github.com/Alexxisleon/Alexxisleon/blob/main/README_EN.md')">
-  <img src="https://img.shields.io/badge/🇪🇸-Español-blue?style=flat-square" onclick="window.open('https://github.com/Alexxisleon/Alexxisleon/blob/main/README_ES.md')">
-</div>
+
+  [PT-BR](https://github.com/Alexxisleon/Alexxisleon/blob/main/README.md) | 
+  [EN](https://github.com/Alexxisleon/Alexxisleon/blob/main/README_EN.md) | 
+  [ES](https://github.com/Alexxisleon/Alexxisleon/blob/main/README_ES.md)
+
