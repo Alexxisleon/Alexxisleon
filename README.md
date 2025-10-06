@@ -117,9 +117,9 @@
 </div>
 
 <div align="center">
-  [Português] (https://bit.ly/3WqU8T0) |
-  [English] (https://bit.ly/3KJUH7T) |
-  [Español] (http://bit.ly/4nDdjoL)
+  Português - https://bit.ly/3WqU8T0 |
+  English - https://bit.ly/3KJUH7T |
+  Español - http://bit.ly/4nDdjoL
 </div>
 
 
