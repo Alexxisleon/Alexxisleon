@@ -118,9 +118,3 @@
   [![English](https://bit.ly/3KJUH7T)|
   [![Español](http://bit.ly/4nDdjoL)
 </div>
-
-<div align="center">
-  [![PT](https://img.shields.io/badge/🇧🇷-Português-0066cc?style=for-the-badge)](https://github.com/Alexxisleon/Alexxisleon/blob/main/README.md)
-  [![EN](https://img.shields.io/badge/🇺🇸-English-0066cc?style=for-the-badge)](https://github.com/Alexxisleon/Alexxisleon/blob/main/README_EN.md)
-  [![ES](https://img.shields.io/badge/🇪🇸-Español-0066cc?style=for-the-badge)](https://github.com/Alexxisleon/Alexxisleon/blob/main/README_ES.md)
-</div>
