@@ -115,6 +115,12 @@
     <small>Última atualização em: </small>
   </p>
 </div>
+<div align="center">
+  <strong>Idioma/Language:</strong>
+  [🇧🇷 Português](README.md) | 
+  [🇺🇸 English](README_EN.md) | 
+  [🇪🇸 Español](README_ES.md)
+</div>
 
 
 
