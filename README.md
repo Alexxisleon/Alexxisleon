@@ -117,9 +117,9 @@
 </div>
 <div align="center">
   <strong>Idioma/Language:</strong>
-  [🇧🇷 Português](README.md) | 
-  [🇺🇸 English](README_EN.md) | 
-  [🇪🇸 Español](README_ES.md)
+  [🇧🇷 Português](https://github.com/Alexxisleon/Alexxisleon/blob/main/README.md)| 
+  [🇺🇸 English](https://github.com/Alexxisleon/Alexxisleon/blob/main/README_EN.md) | 
+  [🇪🇸 Español](https://github.com/Alexxisleon/Alexxisleon/blob/main/README_ES.md)
 </div>
 
 
